@@ -14,4 +14,5 @@ identify all .r files as python
 
 ### example 3:
 identify all files from folder1 as Scala
+
 folder1/* linguist-language=Scala linguist-detectable
