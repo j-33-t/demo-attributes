@@ -8,4 +8,5 @@ Example of a `.gitattributes` file which reclassifies `.py` files as Java:
 
 ### example 2:
 identify all .r files as python
+
 *.r linguist-language=Python linguist-detectable
