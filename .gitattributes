@@ -1,3 +1,5 @@
 *.py linguist-language=Java
 
 *.r linguist-language=Python linguist-detectable
+
+folder1/* linguist-language=R linguist-detectable
