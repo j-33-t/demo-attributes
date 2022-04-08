@@ -1,6 +1,7 @@
 # demo-attributes
-tweaking git attributes
+tweaking git attributes to change the language displayed in github
 
+# Step1: Create .gitattribtue file in root directory of your project.
 
 ### example 1:
 Example of a `.gitattributes` file which reclassifies `.py` files as Java:
